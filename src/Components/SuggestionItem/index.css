@@ -1,0 +1,25 @@
+.arrow{
+    width:20px;
+    height:20px;
+}
+
+.list-container{
+    list-style-type: none;
+}
+
+.suggestion-container{
+    display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+  list-style-type: none;
+}
+.title{
+    color: #475569;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin: 0;
+}
+.arrow-button{
+    border-width: 0px;
+    background-color: transparent;
+}
